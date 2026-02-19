@@ -4,3 +4,8 @@
 [submodule "personal-development-tracker"]
 	path = personal-development-tracker
 	url = https://github.com/cds-id/pdt.git
+        path = InternetGrounding
+        url = https://github.com/suryami62/InternetGrounding.git
+[submodule "malasfetch"]
+        path = malasfetch
+        url = https://github.com/broman0x/malasfetch.git
