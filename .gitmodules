@@ -85,3 +85,6 @@
 [submodule "aether-tg-bot"]
 	path = aether-tg-bot
 	url = https://github.com/pavelc4/aether-tg-bot.git
+[submodule "yume-go"]
+	path = yume-go
+	url = https://github.com/pavelc4/yume-go.git
